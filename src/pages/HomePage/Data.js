@@ -38,14 +38,14 @@ export const homeObjOne = {
     lightTopLine: false,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Sarah Jeni',
+    topLine: 'Medsway Prime',
     headline:
-      'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+      'Witness > 20% cost reduction and bottom line improvements from first month itself',
     description:
-      "Their team is wonderful! I can't believe I didn't start working with them earlier.",
-    buttonLabel: 'View Case Study',
+      "Intuitive dashboard, real-time actionable insights, Whatsapp integration for instant decision making",
+    buttonLabel: 'Sign up today',
     imgStart: 'start',
-    img: require('../../images/profile.jpg'),
+    img: require('../../images/dashimage.png'),
     alt: 'Vault',
     start: 'true'
   };

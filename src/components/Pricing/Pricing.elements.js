@@ -22,7 +22,7 @@ export const PricingWrapper = styled.div`
   }
 `;
 
-export const PricingHeading = styled.h1`
+export const PricingHeading = styled.h3`
   color: #fff;
   font-size: 48px;
   margin-bottom: 24px;
