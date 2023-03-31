@@ -45,7 +45,7 @@ export const PricingCard = styled(Link)`
   background: #242424;
   box-shadow: 0 6px 20px rgba(56, 125, 255, 0.2);
   width: 280px;
-  height: 500px;
+  height: 600px;
   text-decoration: none;
   border-radius: 4px;
   &:nth-child(2) {
@@ -87,7 +87,7 @@ export const PricingCardCost = styled.h4`
 `;
 
 export const PricingCardLength = styled.p`
-  font-size: 14px;
+  font-size: 12px;
   margin-bottom: 24px;
 `;
 

@@ -1,17 +1,19 @@
+import { width } from '@mui/system';
+
 export const homeObjOne = {
     primary: true,
     lightBg: false,
     lightTopLine: true,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Marketing Agency',
-    headline: 'Lead Generation Specialist for Online Businesses',
+    topLine: 'With Medsway SaaS',
+    headline: 'Its time to grow your pharmacy business',
     description:
-      'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
+      'Unleash the growth potential of your business with our cutting edge software that is designed to optimize your costs and increase your revenue potential by >15% within first three months.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: require('../../images/svg-1.svg'),
-    alt: 'Credit Card',
+    img: require('../../images/medview.jpg'),
+    alt: 'home view',
     start: ''
   };
   
@@ -40,9 +42,9 @@ export const homeObjOne = {
     lightTextDesc: false,
     topLine: 'Medsway Prime',
     headline:
-      'Witness > 20% cost reduction and bottom line improvements from first month itself',
+      'Intuitive dashboard, real-time actionable insights, Whatsapp integration for instant decision making',
     description:
-      "Intuitive dashboard, real-time actionable insights, Whatsapp integration for instant decision making",
+      "Witness > 20% cost reduction and bottom line improvements from first month itself",
     buttonLabel: 'Sign up today',
     imgStart: 'start',
     img: require('../../images/dashimage.png'),

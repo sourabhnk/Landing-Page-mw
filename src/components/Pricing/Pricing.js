@@ -32,13 +32,17 @@ import {
                 <PricingCardIcon>
                   <GiRock />
                 </PricingCardIcon>
-                <PricingCardPlan>Starter Pack</PricingCardPlan>
-                <PricingCardCost>$99.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardPlan>Medsway Basic</PricingCardPlan>
+                <PricingCardCost>INR 2499</PricingCardCost>
+                <PricingCardLength>per year</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>100 New Users</PricingCardFeature>
-                  <PricingCardFeature>$10,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Retargeting analytics</PricingCardFeature>
+                  <PricingCardFeature>Up to 2 logins</PricingCardFeature>
+                  <PricingCardFeature>Instant inventory setup</PricingCardFeature>
+                  <PricingCardFeature>Seamless billing integration</PricingCardFeature>
+                  <PricingCardFeature>Real time sales dashboard</PricingCardFeature>
+                  <PricingCardFeature>Automated expiry alerts</PricingCardFeature>
+                  <PricingCardFeature>Whatsapp integration</PricingCardFeature>
+                  <PricingCardFeature>24-48 hr window service support</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
@@ -48,13 +52,14 @@ import {
                 <PricingCardIcon>
                   <GiCrystalBars />
                 </PricingCardIcon>
-                <PricingCardPlan>Gold Rush</PricingCardPlan>
-                <PricingCardCost>$299.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardPlan>Medsway Plus</PricingCardPlan>
+                <PricingCardCost>INR 4499</PricingCardCost>
+                <PricingCardLength>per year</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>1000 New Users</PricingCardFeature>
-                  <PricingCardFeature>$50,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Lead Gen Analytics</PricingCardFeature>
+                  <PricingCardFeature>Up to 3 logins</PricingCardFeature>
+                  <PricingCardFeature>Enhanced sales dashboard</PricingCardFeature>
+                  <PricingCardFeature>Exclusive stock deals</PricingCardFeature>
+                  <PricingCardFeature>12 hr window guaranteed support</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
@@ -64,13 +69,14 @@ import {
                 <PricingCardIcon>
                   <GiCutDiamond />
                 </PricingCardIcon>
-                <PricingCardPlan>Diamond Kings</PricingCardPlan>
-                <PricingCardCost>$999.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardPlan>Medsway PRO</PricingCardPlan>
+                <PricingCardCost>INR 9999</PricingCardCost>
+                <PricingCardLength>per year</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Unlimited Users</PricingCardFeature>
-                  <PricingCardFeature>Unlimited Budget</PricingCardFeature>
-                  <PricingCardFeature>24/7 Support</PricingCardFeature>
+                  <PricingCardFeature>Unlimited user logins</PricingCardFeature>
+                  <PricingCardFeature>Pharmacy e-commerce set up</PricingCardFeature>
+                  <PricingCardFeature>Purchase and delivery support</PricingCardFeature>
+                  <PricingCardFeature>Live dedicated agent support</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
