@@ -12,7 +12,7 @@ export const homeObjOne = {
       'Unleash the growth potential of your business with our cutting edge software that is designed to optimize your costs and increase your revenue potential by >15% within first three months.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: require('../../images/medview.jpg'),
+    img: require('../../images/pharmacy.jpg'),
     alt: 'home view',
     start: ''
   };
@@ -24,7 +24,7 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'Instant Setup',
-    headline: 'Extremely quick onboarding process',
+    headline: 'Super quick onboarding',
     description:
       "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
     buttonLabel: 'Learn More',
@@ -40,14 +40,14 @@ export const homeObjOne = {
     lightTopLine: false,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Medsway Prime',
+    //topLine: 'Medsway Prime',
     headline:
       'Intuitive dashboard, real-time actionable insights, Whatsapp integration for instant decision making',
     description:
       "Witness > 20% cost reduction and bottom line improvements from first month itself",
     buttonLabel: 'Sign up today',
     imgStart: 'start',
-    img: require('../../images/dashimage.png'),
+    img: require('../../images/dashnew.png'),
     alt: 'Vault',
     start: 'true'
   };

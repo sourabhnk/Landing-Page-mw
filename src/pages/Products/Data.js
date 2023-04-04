@@ -3,10 +3,10 @@ export const homeObjOne = {
     lightText: true,
     lightTopLine: true,
     lightTextDesc: true,
-    topLine: 'View Our Products',
-    headline: 'Shop through our catalog of products',
+    topLine: 'Trusted by industry',
+    //headline: 'Shop through our catalog of products',
     description:
-      'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
+      'Founded by Alumni from IIM and Grant Medical College, Mumbai. With over a decade of successful enterpreneurial experience in healthcare industry. We are backed by seasoned industry professionals and industry leading investors.',
     buttonLabel: 'Shop Now',
     imgStart: '',
     img: require('../../images/svg-1.svg'),

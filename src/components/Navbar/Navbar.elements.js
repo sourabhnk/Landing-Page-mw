@@ -4,12 +4,13 @@ import { FaMagento } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 
 export const Nav = styled.nav`
-    background: #EAF0FF;
+    background: #f2f2f2;
     height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
+    font-weight: bold;
     position: sticky;
     top: 0;
     z-index: 999;
@@ -28,7 +29,8 @@ export const NavLogo = styled(Link)`
     justify-self: flex-start;
     cursor: pointer;
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-weight: 900;
     display: flex;
     align-items: center;
 `

@@ -1,9 +1,8 @@
 import React from 'react';
 import { Button } from '../../globalStyles';
-import { AiFillThunderbolt } from 'react-icons/ai';
-import { GiCrystalBars } from 'react-icons/gi';
-import { GiCutDiamond, GiRock } from 'react-icons/gi';
-import { GiFloatingCrystal } from 'react-icons/gi';
+//import { AiFillThunderbolt } from 'react-icons/ai';
+import { SiMoleculer } from 'react-icons/si';
+//import { GiFloatingCrystal } from 'react-icons/gi';
 import { IconContext } from 'react-icons/lib';
 import {
   PricingSection,
@@ -30,7 +29,7 @@ import {
             <PricingCard to='/sign-up'>
               <PricingCardInfo>
                 <PricingCardIcon>
-                  <GiRock />
+                  <SiMoleculer />
                 </PricingCardIcon>
                 <PricingCardPlan>Medsway Basic</PricingCardPlan>
                 <PricingCardCost>INR 2499</PricingCardCost>
@@ -50,12 +49,14 @@ import {
             <PricingCard to='/sign-up'>
               <PricingCardInfo>
                 <PricingCardIcon>
-                  <GiCrystalBars />
+                  <SiMoleculer/>
                 </PricingCardIcon>
                 <PricingCardPlan>Medsway Plus</PricingCardPlan>
                 <PricingCardCost>INR 4499</PricingCardCost>
                 <PricingCardLength>per year</PricingCardLength>
                 <PricingCardFeatures>
+                  <PricingCardFeature>Medsway Basic</PricingCardFeature>
+                  <PricingCardFeature>+</PricingCardFeature>
                   <PricingCardFeature>Up to 3 logins</PricingCardFeature>
                   <PricingCardFeature>Enhanced sales dashboard</PricingCardFeature>
                   <PricingCardFeature>Exclusive stock deals</PricingCardFeature>
@@ -67,13 +68,14 @@ import {
             <PricingCard to='/sign-up'>
               <PricingCardInfo>
                 <PricingCardIcon>
-                  <GiCutDiamond />
+                  <SiMoleculer />
                 </PricingCardIcon>
                 <PricingCardPlan>Medsway PRO</PricingCardPlan>
                 <PricingCardCost>INR 9999</PricingCardCost>
                 <PricingCardLength>per year</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Unlimited user logins</PricingCardFeature>
+                  <PricingCardFeature>Medsway Plus</PricingCardFeature>
+                  <PricingCardFeature>+</PricingCardFeature>
                   <PricingCardFeature>Pharmacy e-commerce set up</PricingCardFeature>
                   <PricingCardFeature>Purchase and delivery support</PricingCardFeature>
                   <PricingCardFeature>Live dedicated agent support</PricingCardFeature>

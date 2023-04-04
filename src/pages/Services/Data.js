@@ -5,7 +5,7 @@ export const homeObjOne = {
     topLine: 'Exclusive Access',
     headline: 'Unlimited Transactions with zero fees',
     description:
-      'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
+      'Call us now on 080-47182888 to know more',
     buttonLabel: 'Get Started',
     imgStart: '',
     img: require('../../images/svg-1.svg'),

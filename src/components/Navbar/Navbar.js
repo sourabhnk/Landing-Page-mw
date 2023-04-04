@@ -65,7 +65,6 @@ function Navbar() {
             <Nav>
                 <NavbarContainer>
                     <NavLogo to='/'> 
-                        <NavIcon />
                             Medsway.
                     </NavLogo>
                     <HamburgerIcon onClick={handleClick}>

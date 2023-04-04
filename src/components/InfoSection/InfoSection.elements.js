@@ -74,7 +74,8 @@ export const Img = styled.img`
   max-width: 100%;
   vertical-align: middle;
   display: inline-block;
-  max-height: 500px;
+  height: 500px;
+  object-fit: contain;
 `;
 
 export const Heading = styled.h1`
